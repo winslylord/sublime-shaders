@@ -5,6 +5,8 @@
     <key>fileTypes</key>
     <array>
         <string>cg</string>
+        <string>cfx</string>
+        <string>cfi</string>
     </array>
     <key>foldingStartMarker</key>
     <string>(?x)
